@@ -5,7 +5,7 @@ A data science workspace dedicated to loading the classic Iris floral dataset, p
 ## 📂 Project Structure
 *   `tony_u4_l5_iris.ipynb` - The full Jupyter Notebook containing data loading, visual charts, custom neural network math, and performance evaluations.
   
-* **[AI Image Classification Training](https://github.com/anthonymroso-star/ai_iris/tony_u4_l5_iris.ipynb)** - Custom AI model, Deep Learning neural network developed in Python.
+* **[AI Image Classification Training](https://github.com/anthonymroso-star/ai_iris/blob/main/notebooks/tony_u4_l5_iris.ipynb)** - Custom AI model, Deep Learning neural network developed in Python.
 
 ## Core Workflow Steps
 
