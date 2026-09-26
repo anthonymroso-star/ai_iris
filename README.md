@@ -24,6 +24,6 @@ A data science workspace dedicated to loading the classic Iris floral dataset, p
 
 ### 4. Training, Testing & Analysis
 *   **Speed Tuning:** Trains the network across multiple learning speeds to discover the ideal balance between processing pace and system stability.
-*   **Live Prediction Inference:** Passes entirely new, isolated flower measurements into the finalised system to instantly categorize the species type.
+*   **Live Prediction Inference:** Passes entirely new, isolated flower measurements into the finalised system to categorise the species type.
 *   **Performance Diagnostics:** Evaluates the risks of perfect scores (100% accuracy), analysing potential real-world challenges like memorization bias (overfitting) versus genuine learning.
 
